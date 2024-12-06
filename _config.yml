@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Adam Skoglund # your name (or website title) here
+logo: "/images/adam_portrait.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi, I’m Adam Skoglund, a driven data science student passionate about uncovering insights and solving real-world problems through data. I believe in the power of technology and collaboration to create impactful solutions, whether it’s advancing healthcare analytics or optimizing business processes. My goal is to continuously learn, grow, and contribute meaningfully in every endeavor.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/adam-skoglund/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
