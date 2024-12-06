@@ -3,6 +3,18 @@
 ---
 
 ### Experience
+**Teaching Assistant & Co-Lecturer**
+*Interactive Intelligence*
+- Delivered a lecture about Deep Learning for 70+ students in the Intro to NeuroAI course, covering foundational concepts like neural networks, gradient descent, and backpropagation.
+- Guided students through coding assignments in Python and LaTeX, helping them build practical skills in NeuroAI.
+- Mentored students on key NeuroAI topics, fostering a deeper understanding of machine learning, reinforcement learning, and neuroscience principles.
+- Promoted an engaging learning environment by facilitating discussions and offering personalized support on complex AI concepts.
+
+**Officer of Workshop**
+*Applied Analytics Club at UW (AACUW)*
+- Developed and led workshop sessions for 50+ students on key data science and analytics skills, including Python (pandas, scikit-learn, PyTorch/TensorFlow) and SQL.
+- Taught foundational machine learning algorithms and concepts, enhancing students' practical understanding of data science applications.
+- Introduced students to fundamental MLOps, covering deployment practices and cloud computing for machine learning models with tools like Docker, Git, and cloud platforms.
 
 **Data Analyst Intern**
 *PACCAR, Inc.*
@@ -10,6 +22,8 @@
 - Optimized data ingestion and cleaning processes using SQL within Snowflake and SQLAlchemy, resulting in up to a 20% reduction in data processing time for clustered dealer analysis.
 - Developed Tableau dashboards enabling real-time filtering, saving 30 hours per month on warranty claim reporting and providing instant access to key summary statistics and KPIs.
 - Presented final insights and impact to executive leadership, highlighting the effectiveness of data-driven solutions and the overall business value delivered.
+
+---
 
 ### Projects
 
@@ -37,3 +51,8 @@
 - Deployed an interactive Streamlit app for real-time predictions, reducing user input time by 30%.
 
 ---
+
+### Certifications
+
+[Azure Fundamentals](https://learn.microsoft.com/en-us/users/adamskoglund/credentials/b419fc352ec3b253?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+<img src="images/microsoft-certified-fundamentals.jpg?raw=true"/>
